@@ -1,0 +1,6 @@
+Pregunta 	respuesta_1	respuesta_2	respuesta_3	respuesta_4	Respuesta_correcta
+¨Cual es la capital de Suecia? 	Gotemburgo	Estocolmo	Upsala	Malmo	Estocolmo
+¨En que a¤o se fund¢ River Plate? 	1900	1905	1901	1897	1901
+¨En que a¤o fue la batalla de San Lorenzo? 	1813	1792	1806	1811	1813
+¨En que ciudad naci¢ Shakira? 	Bogota	Cali	Barranquilla	Medellin	Barranquilla
+¨En que a¤o se declar¢ la independencia en Argentina? 	1802	1789	1795	1916	1816

@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %} Respnder Preguntas {% endblock %}
+
+{% block body %}
+
+<div class="jumbotron p-3">
+    <div class="well text-center">
+        <h1>Bienvenido {{session['nombre']}}</h1>
+        <h1>Tiene 4 posibles respuestas</h1>
+    </div>
+</div>
+
+{% endblock %}
